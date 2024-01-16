@@ -8,7 +8,7 @@ framework: .net 6.0
 IDE: visual studio 2022
 
 
-first step for running the procjet is to clonse the repository from github:
+first step for running the procjet is to clone the repository from github:
 open cmd from the desired folder you want to save to project to and run the command "git clone https://github.com/amirm363/dotnetShoppingListService.git"
 
 than you should get into the cloned project folder with the command "cd dotnetWebService"
